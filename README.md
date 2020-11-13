@@ -21,19 +21,19 @@ suitable reference.
 [blog-posts]: #blog-posts
 Here are some blog posts talking about chalk:
 
-- [Lowering Rust Traits to Logic](http://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/)
+- [Lowering Rust Traits to Logic](https://smallcultfollowing.com/babysteps/blog/2017/01/26/lowering-rust-traits-to-logic/)
     - Explains the basic concepts at play
-- [Unification in Chalk, Part 1](http://smallcultfollowing.com/babysteps/blog/2017/03/25/unification-in-chalk-part-1/)
+- [Unification in Chalk, Part 1](https://smallcultfollowing.com/babysteps/blog/2017/03/25/unification-in-chalk-part-1/)
     - An introduction to unification
-- [Unification in Chalk, Part 2](http://smallcultfollowing.com/babysteps/blog/2017/04/23/unification-in-chalk-part-2/)
+- [Unification in Chalk, Part 2](https://smallcultfollowing.com/babysteps/blog/2017/04/23/unification-in-chalk-part-2/)
     - Extending the system for associated types
-- [Negative reasoning in Chalk](http://aturon.github.io/blog/2017/04/24/negative-chalk/)
+- [Negative reasoning in Chalk](https://aturon.github.io/blog/2017/04/24/negative-chalk/)
     - How to prove that something is not true
-- [Query structure in chalk](http://smallcultfollowing.com/babysteps/blog/2017/05/25/query-structure-in-chalk/)
+- [Query structure in chalk](https://smallcultfollowing.com/babysteps/blog/2017/05/25/query-structure-in-chalk/)
     - The basic chalk query structure, with pointers into the chalk implementation
-- [Cyclic queries in chalk](http://smallcultfollowing.com/babysteps/blog/2017/09/12/tabling-handling-cyclic-queries-in-chalk/)
+- [Cyclic queries in chalk](https://smallcultfollowing.com/babysteps/blog/2017/09/12/tabling-handling-cyclic-queries-in-chalk/)
     - Handling cyclic relations and enabling the implementation of implied bounds and other long-desired features in an elegant way
 
 ## Contributing
 
-If you're like to contribute, consider joining the [Traits Working Group](https://github.com/rust-lang/rust/issues/48416). We hang out on the [rust-lang discord](http://discord.gg/rust-lang) in the `#wg-traits` channel (Lang category).
+If you're like to contribute, consider joining the [Traits Working Group](https://github.com/rust-lang/rust/issues/48416). We hang out on the [rust-lang discord](https://discord.gg/rust-lang) in the `#wg-traits` channel (Lang category).
