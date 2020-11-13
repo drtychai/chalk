@@ -371,7 +371,7 @@ papers, which I will refer to as EWFS and NTFD respectively:
 > A New Formulation of Tabled resolution With Delay
 > (Swift; EPIA '99)
 
-[MiniKanren]: http://minikanren.org/
+[MiniKanren]: https://minikanren.org/
 
 In addition, I incorporated extensions from the following papers,
 which I will refer to as SA and RR respectively, that describes how to
@@ -398,7 +398,7 @@ want to be evaluated in the future.
 A few other acronyms that I use:
 
 - WAM: Warren abstract machine, an efficient way to evaluate Prolog programs.
-  See <http://wambook.sourceforge.net/>.
+  See <https://wambook.sourceforge.net/>.
 - HH: Hereditary harrop predicates. What Chalk deals in.
   Popularized by Lambda Prolog.
 

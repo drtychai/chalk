@@ -49,7 +49,7 @@
 //! Glossary of other terms:
 //!
 //! - WAM: Warren abstract machine, an efficient way to evaluate Prolog programs.
-//!   See <http://wambook.sourceforge.net/>.
+//!   See <https://wambook.sourceforge.net/>.
 //! - HH: Hereditary harrop predicates. What Chalk deals in.
 //!   Popularized by Lambda Prolog.
 
